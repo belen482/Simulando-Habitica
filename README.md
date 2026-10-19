@@ -6,8 +6,9 @@ Integrantes:
 - Panduro Cruz, Ricardo Joaquin (Ricardio5)
 - Soto Ortega, Fiorella Belen (belen482)
 
-Documentos principales: 
-- informe.html
+Contenido importante: 
+- informe.html (informe.ipynb muestra las imágenes)
 - simulando_habitica.ipynb (código)
+- old data 
 - diapositiva.pdf
 - Planificacin_grupal.pdf
